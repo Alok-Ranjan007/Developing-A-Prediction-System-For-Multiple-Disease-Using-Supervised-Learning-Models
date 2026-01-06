@@ -1,0 +1,2 @@
+# Developing-A-Prediction-System-For-Multiple-Disease-Using-Supervised-Learning-Models
+An AI-driven health diagnostic tool utilizing Machine Learning to predict Diabetes, Heart Disease, and Parkinson’s. Built with Python and Streamlit, it features trained SVM and Logistic Regression models to provide real-time risk assessments from clinical data. This project offers a seamless UI for early diagnosis and data-driven healthcare.
